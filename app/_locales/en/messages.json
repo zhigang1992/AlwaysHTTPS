@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "alwaysHTTPs",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Always use HTTPS",
+    "description": "The description of the application"
+  }
+}
